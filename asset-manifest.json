@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Restuarant_Web/static/css/main.6038dfdd.css",
+    "main.js": "/Restuarant_Web/static/js/main.2323d7aa.js",
+    "static/js/787.9cb6ef40.chunk.js": "/Restuarant_Web/static/js/787.9cb6ef40.chunk.js",
+    "static/media/grid_image1.png": "/Restuarant_Web/static/media/grid_image1.60f07911db51ed392a71.png",
+    "static/media/hero_image.png": "/Restuarant_Web/static/media/hero_image.833503911a450f5cbfd2.png",
+    "static/media/grid_image7.png": "/Restuarant_Web/static/media/grid_image7.f86c6157e45d50092d1a.png",
+    "static/media/grid_image2.png": "/Restuarant_Web/static/media/grid_image2.1f0227b980c1a700857c.png",
+    "static/media/grid_image3.png": "/Restuarant_Web/static/media/grid_image3.c36df738d7f22ebb30ff.png",
+    "static/media/grid_image5.png": "/Restuarant_Web/static/media/grid_image5.2ca65fc51c5a5d738cc9.png",
+    "static/media/grid_image4.png": "/Restuarant_Web/static/media/grid_image4.e2a896564d415d4ac54c.png",
+    "static/media/grid_image6.png": "/Restuarant_Web/static/media/grid_image6.6ebadcf34e8c2f2cba65.png",
+    "index.html": "/Restuarant_Web/index.html",
+    "main.6038dfdd.css.map": "/Restuarant_Web/static/css/main.6038dfdd.css.map",
+    "main.2323d7aa.js.map": "/Restuarant_Web/static/js/main.2323d7aa.js.map",
+    "787.9cb6ef40.chunk.js.map": "/Restuarant_Web/static/js/787.9cb6ef40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6038dfdd.css",
+    "static/js/main.2323d7aa.js"
+  ]
+}
